@@ -1,0 +1,23 @@
+#navbar {
+  width: 1400px;
+  height: 80px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #232554;
+  border: 0.2px;
+  border-radius: 10px;
+  position: absolute;
+}
+
+h1 {
+  color: #878eca;
+  font-family: "Avenir Next" !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+}
+body {
+  width: 1440px;
+  height: 900px;
+  background-color: #1c1e43;
+}
